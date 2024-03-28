@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/swathimruh/static/css/main.2726e9b5.css",
-    "main.js": "/swathimruh/static/js/main.9ca561f3.js",
-    "static/js/592.247be2c0.chunk.js": "/swathimruh/static/js/592.247be2c0.chunk.js",
-    "static/media/logo.svg": "/swathimruh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/swathimruh/static/css/main.7d763894.css",
+    "main.js": "/swathimruh/static/js/main.0a17574f.js",
+    "static/js/787.71df535f.chunk.js": "/swathimruh/static/js/787.71df535f.chunk.js",
     "index.html": "/swathimruh/index.html",
-    "main.2726e9b5.css.map": "/swathimruh/static/css/main.2726e9b5.css.map",
-    "main.9ca561f3.js.map": "/swathimruh/static/js/main.9ca561f3.js.map",
-    "592.247be2c0.chunk.js.map": "/swathimruh/static/js/592.247be2c0.chunk.js.map"
+    "main.7d763894.css.map": "/swathimruh/static/css/main.7d763894.css.map",
+    "main.0a17574f.js.map": "/swathimruh/static/js/main.0a17574f.js.map",
+    "787.71df535f.chunk.js.map": "/swathimruh/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2726e9b5.css",
-    "static/js/main.9ca561f3.js"
+    "static/css/main.7d763894.css",
+    "static/js/main.0a17574f.js"
   ]
 }
